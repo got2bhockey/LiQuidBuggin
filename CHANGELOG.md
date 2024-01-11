@@ -2,18 +2,30 @@
 
 All notable changes to the BudgeBug Hoarding Bug Audio Overhaul for Lethal Company will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/).
 
-
-## [1.0.0]
+## [1.0.2]
 
 ### Added
 
-- Initial release of the "LiQuidBuggin" Hoarding Bug Audio Overhaul.
-- Replaced standard hoarding bug audio with phrases from the LiQuid Gaming community
-- Introduced a variety of phrases for an unpredictable and humorous experience.
+- Added bug sound percentages.
+- Added multiple new bug sounds
 
 ### Changed
 
-- Enhanced entertainment value by bringing humor to hoarding bug encounters.
+- Minor tweaks
+
+### Removed
+
+- No features removed.
+
+## [1.0.2]
+
+### Added
+
+- No features added.
+
+### Changed
+
+- Updated bug sounds.
 
 ### Removed
 
@@ -33,15 +45,17 @@ All notable changes to the BudgeBug Hoarding Bug Audio Overhaul for Lethal Compa
 
 - No features removed.
 
-## [1.0.2]
+## [1.0.0]
 
 ### Added
 
-- No features added.
+- Initial release of the "LiQuidBuggin" Hoarding Bug Audio Overhaul.
+- Replaced standard hoarding bug audio with phrases from the LiQuid Gaming community
+- Introduced a variety of phrases for an unpredictable and humorous experience.
 
 ### Changed
 
-- Updated bug sounds.
+- Enhanced entertainment value by bringing humor to hoarding bug encounters.
 
 ### Removed
 

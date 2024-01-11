@@ -1,6 +1,6 @@
 {
     "name": "LiQuidBuggin",
-    "version_number": "1.0.2",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/got2bhockey/LiQuidBuggin",
     "description": "Replaces Hoarder Bug audio with clips from the LiQuid Gaming community.",
     "dependencies": [
