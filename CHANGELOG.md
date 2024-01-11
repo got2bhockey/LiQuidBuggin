@@ -6,6 +6,20 @@ All notable changes to the BudgeBug Hoarding Bug Audio Overhaul for Lethal Compa
 
 ### Added
 
+- No features added.
+
+### Changed
+
+- Minor tweaks
+
+### Removed
+
+- No features removed.
+
+## [1.0.5]
+
+### Added
+
 - CI/CD Pipeline for mod updates
 
 ### Changed
