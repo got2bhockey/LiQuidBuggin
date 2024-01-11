@@ -35,7 +35,7 @@ This mod seamlessly integrates with the latest version of Lethal Company. Ensure
 
 If you encounter any issues, have suggestions, or just want to share your laughter-inducing experiences, feel free to reach out.
 
-- 🌐 **Discord**: [LiQuid Gaming Community](#) *(replace with actual Discord link)*
+- 🌐 **Discord**: [LiQuid Gaming Community](https://liqgaming.com/discord)
 
 ## Credits
 
