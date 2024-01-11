@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: GreenTF/upload-thunderstore-package@v4.2
         with:
-          namespace: LiQuid Gaming # the thunderstore 'team' to publish under
+          namespace: LiQuid_Gaming # the thunderstore 'team' to publish under
           description: Replaces Hoarder Bug audio with clips from the LiQuid Gaming community. 
           token: ${{ secrets.THUNDERSTORE_TOKEN }}
           name: LiQuidBuggin # the name of the package
