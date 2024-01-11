@@ -1,0 +1,11 @@
+{
+    "name": "LiQuidBuggin",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/got2bhockey/LiQuidBuggin",
+    "description": "Replaces Hoarder Bug audio with clips from the LiQuid Gaming community.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Clementinise-CustomSounds-2.2.0",
+		"no00ob-LCSoundTool-1.4.0"
+    ]
+}
