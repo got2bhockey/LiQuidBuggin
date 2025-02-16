@@ -2,6 +2,28 @@
 
 All notable changes to the BudgeBug Hoarding Bug Audio Overhaul for Lethal Company will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.0.9]
+
+### Added
+
+- No features added.
+
+### Changed
+
+- Updated compatibility.
+
+### Removed## [1.0.8]
+
+### Added
+
+- No features added.
+
+### Changed
+
+- Updated compatibility.
+
+### Removed
+
 ## [1.0.7]
 
 ### Added
